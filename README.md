@@ -1,4 +1,6 @@
-# Blair Noctis
+# Blair Nyktas
+
+was Noctis.
 
 Writes Rust and Python. Occasionally Web pages, vanilla.
 
